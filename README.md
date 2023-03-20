@@ -1,98 +1,63 @@
-<a name="readme-top"></a>
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# 📗 Table of Contents
+# Portfolio
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#Licence)
+> This is a clone portfolio project from Microverse. Built the mobile, and the desktop version. The project has 4 main sections, the headline section, projects section, about-me section, and the form section.
 
-# 📖<a name="Portfolio Desktop Version"></a>
+## Built With
 
-## Project Title
-Portfolio Desktop Version
+- HTML
+- CSS
+- JavaScript
 
-## Project Description
-Portfolio Desktop Version project that include a contact form and it uses different tools such Html,Css,Git and Github without additional coding.Use media queries to make sure that your website displays correctly on desktop screens.
+## Screenshot
 
-## 🛠 Built With 
-Html Css git github code cloning
+### Mobile
 
-## key-features
-To understand how to create UIs adaptable to different screen sizes using media queries.
-To understand how to parse a Figma design to create a UI.
+![Screenshot from 2022-02-16 22-52-24](https://user-images.githubusercontent.com/79658534/154355395-493f6f10-df11-4852-bc43-8df2a1b14d99.png)
 
+### Desktop
 
-## 💻 Getting Started 
+![Screenshot from 2022-02-16 22-51-05](https://user-images.githubusercontent.com/79658534/154355445-ff562a4c-af48-4fd9-a671-801ac8f1731c.png)
 
-Setup project to your local environment and clone it as follows git clone
-https://github.com/Tshepo45/Portfolio-desktop-version.git
+## Links
 
-To get a local copy up and running, follow these steps.
+- Live Site: [https://virag-ky.github.io/Microverse-Portfolio/](https://virag-ky.github.io/Microverse-Portfolio/)
+
+## Getting Started
 
 ### Prerequisites
 
-In order to run this project you need:
-run git installations commands.
+- web browser (e.g. Google Chrome, Firefox)
+- text editor (e.g. VSCode)
+- CLI/terminal
 
-### Setup
+### Clone this repository
 
-Clone this repository to your desired folder:
+```
+git clone git@github.com:virag-ky/Microverse-Portfolio.git
+```
 
-git clone https://github.com/Tshepo45/Portfolio-desktop-version.git
+## Author
 
-## 👥 Authors <a name="tshepo45"></a>
+👤 **Virag Kormoczy**
 
-👤 **Author1**
+- GitHub: [@virag-ky](https://github.com/virag-ky)
+- Twitter: [@Virag_Ky](https://twitter.com/Virag_Ky)
 
-- GitHub: [@tshepo45](https://github.com/githubhandle)
-- Twitter: [@tshepo45](https://twitter.com/twitterhandle)
-- LinkedIn: [tshepo45](https://linkedin.com/in/linkedinhandle)
-
-## future-features
-The template to include functionality that requires JavaScript.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🤝 Contributing <a name="coding partners"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## ⭐️ Show your support <a name="support"></a>
+## Show your support
 
 Give a ⭐️ if you like this project!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Acknowledgments
 
+- The project design is inspired by a Figma template.
+- My coding partner collaborated in the making of the form section.
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 📝 License
 
-I would like to thank my coding partners.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📝 License <a name="MIT"></a>
-
-This project is [MIT](/MIT.md) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](./MIT.md) licensed.
