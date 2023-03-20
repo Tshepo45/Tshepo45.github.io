@@ -22,8 +22,7 @@
 
 ## Links
 
-- Live Site: [https://virag-ky.github.io/Microverse-Portfolio/](https://virag-ky.github.io/Microverse-Portfolio/)
-
+- Live Site: https://tshepo45.github.io/
 ## Getting Started
 
 ### Prerequisites
@@ -34,18 +33,15 @@
 
 ### Clone this repository
 
-```
-git clone git@github.com:virag-ky/Microverse-Portfolio.git
-```
+git clone  https://github.com/Tshepo45/Portfolio-desktop-version.git
 
-## Author
+### Author
 
-👤 **Virag Kormoczy**
+👤GitHub: @tshepo45
+Twitter: @tshepo45
+LinkedIn: tshepo45
 
-- GitHub: [@virag-ky](https://github.com/virag-ky)
-- Twitter: [@Virag_Ky](https://twitter.com/Virag_Ky)
-
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
